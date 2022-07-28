@@ -1,0 +1,1244 @@
+/*
+	@name a4___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 595px; width: 595px;  overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_a4___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 595px;
+	height: 842px;
+}
+
+#_bg__a4___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 595px;
+	height: 842px;
+	background:rgba(255,255,255,1);
+}
+
+#a4___1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 595px;
+	height: 842px;
+}
+#titre_etude_et_formation {
+	top: 73px;
+	left: 259px;
+	width: 323px;
+	height: 159px;
+}
+
+#_tudes {
+	top: 0px;
+	left: 6px;
+	width: 82px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#___formations {
+	top: 22px;
+	left: 6px;
+	width: 131px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 18px;
+	text-align: left;
+	color:#2461FC;
+}
+
+#licence_agricole {
+	top: 44px;
+	left: 1px;
+	width: 246px;
+	height: 36px;
+}
+
+#arrow_1 {
+	top: 6px !important;
+	position: absolute !important;
+	left: 28px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_1.png);
+	background-size:cover;
+}
+
+
+#_2015_2016_licence_3_m_canicien_machinisme_agricole__dipl_m___afpa_chartres {
+	top: 0px;
+	left: 0px;
+	width: 261px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#cap_charcutier {
+	top: 83px;
+	left: 1px;
+	width: 233px;
+	height: 24px;
+}
+
+#arrow_1_ek1 {
+	top: 7px !important;
+	position: absolute !important;
+	left: 24px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_1_ek1.png);
+	background-size:cover;
+}
+
+
+#_1999_2002_cap_charcutier_trateur__cfa_charles_p_guy_orl_ans {
+	top: 0px;
+	left: 0px;
+	width: 248px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#brevet_des_sapeur_pompier {
+	top: 111px;
+	left: 0px;
+	width: 323px;
+	height: 48px;
+}
+
+#arrow_1_ek2 {
+	top: 7px !important;
+	position: absolute !important;
+	left: 27px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_1_ek2.png);
+	background-size:cover;
+}
+
+
+#_1992_2000_brevet_des_jeunes_sapeurs_pompiers__centres_de_secours_du_loiret_bellegarde {
+	top: 0px;
+	left: 1px;
+	width: 337px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#secouriste {
+	top: 36px;
+	left: 0px;
+	width: 80px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#cadre_photo {
+	top: 0px;
+	left: 0px;
+	width: 251px;
+	height: 842px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 251px;
+	height: 842px;
+	background:rgba(133.64,241.73,248.63,1);
+}
+
+
+#will_1 {
+	top: 30px !important;
+	position: absolute !important;
+	left: 50px;
+	width: 150px;
+	height: 150px;
+	background:url(skins/will_1.png);
+	background-size:cover;
+}
+
+#centre_d_int_r_t {
+	top: 715px;
+	left: 16px;
+	width: 202px;
+	height: 99px;
+}
+
+#jeux_vid_o_simulation__strategie___d_velopper_mod_en_lua_et_streame_twitch_art_japonaise__manga_et_anim__informatique_en_g_n_ral {
+	top: 24px;
+	left: 0px;
+	width: 219px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#centres_d_int_r_t {
+	top: 0px;
+	left: 16px;
+	width: 145.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#soft_skill {
+	top: 594px;
+	left: 19px;
+	width: 120px;
+	height: 113px;
+}
+
+#capable_d_adaption_gout_du_changement_autonome_r_sistance_aux_stress_sens_de_l__coute_sait_d_l_guer {
+	top: 23px;
+	left: 0px;
+	width: 137px;
+	height: 98px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#soft_skills {
+	top: 0px;
+	left: 10px;
+	width: 77px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#experience_professionelles {
+	top: 238px;
+	left: 259px;
+	width: 346px;
+	height: 553px;
+}
+#afpa_prepa {
+	top: 91px;
+	left: 0px;
+	width: 305px;
+	height: 98px;
+}
+
+#arrow_4 {
+	top: 7px !important;
+	position: absolute !important;
+	left: 48px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_4.png);
+	background-size:cover;
+}
+
+
+#_04_2022_07_2022_formation_pr_paratoire_aux_m_tiers_de_l_informatique_afpa_olivet_45_ {
+	top: 0px;
+	left: 5px;
+	width: 315px;
+	height: 105px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#html__css_et_php_linux {
+	top: 47px;
+	left: 0px;
+	width: 172px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#experiances_professionnel {
+	top: 0px;
+	left: 6px;
+	width: 128px;
+	height: 44px;
+}
+
+#exp_riences {
+	top: 0px;
+	left: 0px;
+	width: 127px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#professionelles {
+	top: 22px;
+	left: 0px;
+	width: 151px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 18px;
+	text-align: left;
+	color:#2461FC;
+}
+
+#e_eleclerc {
+	top: 226px;
+	left: 1px;
+	width: 265px;
+	height: 79px;
+}
+
+#arrow_5 {
+	top: 7px !important;
+	position: absolute !important;
+	left: 57px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_5.png);
+	background-size:cover;
+}
+
+
+#avril_2009_novembre_2013_employer_libre_service_e_leclerc_fleury_les_aubrais__45_ {
+	top: 0px;
+	left: 5px;
+	width: 275px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#gestion_du_stock_mise_en_rayon_sst {
+	top: 30px;
+	left: 0px;
+	width: 129px;
+	height: 56px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#auchan {
+	top: 290px;
+	left: 1px;
+	width: 199px;
+	height: 51px;
+}
+
+#arrow_3 {
+	top: 9px !important;
+	position: absolute !important;
+	left: 56px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_3.png);
+	background-size:cover;
+}
+
+
+#avril_2008_janvier_2009_employer_libre_service_auchan_olivet__45_ {
+	top: 0px;
+	left: 4px;
+	width: 212px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#gestion_du_stock_mise_en_rayon {
+	top: 27px;
+	left: 0px;
+	width: 109px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#mondial_relay {
+	top: 342px;
+	left: 0px;
+	width: 177px;
+	height: 42px;
+}
+
+#arrow_4_ek1 {
+	top: 6px !important;
+	position: absolute !important;
+	left: 54px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_4_ek1.png);
+	background-size:cover;
+}
+
+
+#juin_2004_f_vrier_2008_agent_de_quai_mondial_relay_mer__41_ {
+	top: 0px;
+	left: 4px;
+	width: 188px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#manutention {
+	top: 30px;
+	left: 0px;
+	width: 90px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#interims {
+	top: 388px;
+	left: 0px;
+	width: 224px;
+	height: 42px;
+}
+
+#arrow_3_ek1 {
+	top: 7px !important;
+	position: absolute !important;
+	left: 58px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_3_ek1.png);
+	background-size:cover;
+}
+
+
+#juillet_2003_juin_2004_manutentionnaire_interims_meung_sur_loire__45_ {
+	top: 0px;
+	left: 2px;
+	width: 237px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#manutention_ek1 {
+	top: 30px;
+	left: 0px;
+	width: 90px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#sapeur_pompier {
+	top: 498px;
+	left: 0px;
+	width: 334px;
+	height: 24px;
+}
+
+#janvier_2001_novembre_2002_sapeur_pompier_centre_de_secours_du_loiret_bellegarde__45_ {
+	top: 0px;
+	left: 0px;
+	width: 349px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#arrow_3_ek2 {
+	top: 7px !important;
+	position: absolute !important;
+	left: 62px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_3_ek2.png);
+	background-size:cover;
+}
+
+#jsp {
+	top: 526px;
+	left: 0px;
+	width: 346px;
+	height: 27px;
+}
+
+#septembre_1998_juin_2002_apprentie_charcutier_traiteur_charcutier_roger_bellegarde__45_ {
+	top: 0px;
+	left: 0px;
+	width: 363px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#arrow_2 {
+	top: 9px !important;
+	position: absolute !important;
+	left: 81px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_2.png);
+	background-size:cover;
+}
+
+#formation_dev {
+	top: 51px;
+	left: 0px;
+	width: 275px;
+	height: 39px;
+}
+
+#_07_2022_a_ce_jour_formation_developpeur_web_et_web_mobile_afpa_olivet_45_ {
+	top: 0px;
+	left: 0px;
+	width: 290px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#html_5__css_3_et_php_7 {
+	top: 27px;
+	left: 4px;
+	width: 131px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#ouvrier_agricol {
+	top: 164px;
+	left: 0px;
+	width: 275px;
+	height: 58px;
+}
+
+#mai_2016_aout_2018_ouvrier_agricole_ge_courtemanche_de_la_motte_sigloy__45_ {
+	top: 0px;
+	left: 4px;
+	width: 286px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#arrow_3_ek3 {
+	top: 7px !important;
+	position: absolute !important;
+	left: 51px;
+	width: 17.5px;
+	height: 0px;
+	background:url(skins/arrow_3_ek3.png);
+	background-size:cover;
+}
+
+
+#gestion_et_reparation_du_parc_agricole_gestion_des_bovins_200 {
+	top: 34px;
+	left: 0px;
+	width: 208px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#colipsote {
+	top: 434px;
+	left: 0px;
+	width: 165px;
+	height: 54px;
+}
+
+#arrow_4_ek2 {
+	top: 6px !important;
+	position: absolute !important;
+	left: 79px;
+	width: 17.34px;
+	height: 0px;
+	background:url(skins/arrow_4_ek2.png);
+	background-size:cover;
+}
+
+
+#d_cembre_2003_juin_2004_agent_de_quai_colisposte_ingr___45_ {
+	top: 0px;
+	left: 0px;
+	width: 180px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#manutention_chef_d_equipe_8 {
+	top: 30px;
+	left: 3px;
+	width: 103px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#langages_de_programation {
+	top: 402px;
+	left: 9px;
+	width: 211px;
+	height: 179px;
+}
+#skillbar_lua {
+	top: 159px;
+	left: 0px;
+	width: 206px;
+	height: 20px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 26px;
+	width: 180px;
+	height: 20px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_4 {
+	top: 0px;
+	left: 26px;
+	width: 20px;
+	height: 20px;
+	background:rgba(253.94,5.29,5.29,1);
+}
+
+
+#file_type_lua_icon_130410_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/file_type_lua_icon_130410_1.png);
+	background-size:cover;
+}
+
+
+#_20_ {
+	top: 3px;
+	left: 26px;
+	width: 50px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+#skillbar_python {
+	top: 133px;
+	left: 0px;
+	width: 206px;
+	height: 22.46px;
+}
+
+#rectangle_3_ek1 {
+	top: 2px;
+	left: 26px;
+	width: 180px;
+	height: 20px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_4_ek1 {
+	top: 2px;
+	left: 26px;
+	width: 5px;
+	height: 20px;
+	background:rgba(248.96,253.94,5.29,1);
+}
+
+
+#python_vertical_logo_icon_168039_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 22.46px;
+	background:url(skins/python_vertical_logo_icon_168039_1.png);
+	background-size:cover;
+}
+
+
+#_5_ {
+	top: 5px;
+	left: 28px;
+	width: 50px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+#skillbar_php {
+	top: 109px;
+	left: 0px;
+	width: 206px;
+	height: 20px;
+}
+
+#rectangle_3_ek2 {
+	top: 0px;
+	left: 26px;
+	width: 180px;
+	height: 20px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_4_ek2 {
+	top: 0px;
+	left: 26px;
+	width: 5px;
+	height: 20px;
+	background:rgba(151.94,150.04,150.04,1);
+}
+
+
+#php_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/php_1.png);
+	background-size:cover;
+}
+
+
+#_5__ek1 {
+	top: 3px;
+	left: 28px;
+	width: 50px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+#skillbar_javascript {
+	top: 84px;
+	left: 3px;
+	width: 203px;
+	height: 20px;
+}
+
+#rectangle_3_ek3 {
+	top: 0px;
+	left: 23px;
+	width: 180px;
+	height: 20px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_4_ek3 {
+	top: 0px;
+	left: 23px;
+	width: 10px;
+	height: 20px;
+	background:rgba(253.94,5.29,5.29,1);
+}
+
+
+#_1200px_javascript_shield_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 14.18px;
+	height: 20px;
+	background:url(skins/_1200px_javascript_shield_1.png);
+	background-size:cover;
+}
+
+
+#_10_ {
+	top: 2px;
+	left: 25px;
+	width: 50px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+#skillbar_css {
+	top: 60px;
+	left: 0px;
+	width: 206px;
+	height: 20px;
+}
+
+#rectangle_3_ek4 {
+	top: 0px;
+	left: 26px;
+	width: 180px;
+	height: 20px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_4_ek4 {
+	top: 0px;
+	left: 26px;
+	width: 90px;
+	height: 20px;
+	background:rgba(5.29,134.59,253.94,1);
+}
+
+
+#css_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/css_1.png);
+	background-size:cover;
+}
+
+
+#_50_ {
+	top: 3px;
+	left: 90px;
+	width: 50px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+#skillbar_html {
+	top: 36px;
+	left: 0px;
+	width: 205.87px;
+	height: 20px;
+}
+
+#rectangle_3_ek5 {
+	top: 0px;
+	left: 26px;
+	width: 180px;
+	height: 20px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_4_ek5 {
+	top: 0px;
+	left: 26px;
+	width: 90px;
+	height: 20px;
+	background:rgba(253.94,139.56,5.29,1);
+}
+
+
+#_50__ek1 {
+	top: 3px;
+	left: 91px;
+	width: 49.84px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_1024px_html5_logo_and_wordmark_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/_1024px_html5_logo_and_wordmark_1.png);
+	background-size:cover;
+}
+
+
+#langages_de_programation_ek1 {
+	top: 0px;
+	left: 16px;
+	width: 215.5px;
+	height: 26.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#titre_et_presentation {
+	top: 203px;
+	left: 19px;
+	width: 174px;
+	height: 191px;
+}
+#rqth {
+	top: 171px;
+	left: 0px;
+	width: 59px;
+	height: 20px;
+}
+
+#rqth_ek1 {
+	top: 3px;
+	left: 22px;
+	width: 54px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#fauteuil_roulant_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/fauteuil_roulant_1.png);
+	background-size:cover;
+}
+
+#permis {
+	top: 151px;
+	left: 0px;
+	width: 75px;
+	height: 20px;
+}
+
+#permis_b {
+	top: 3px;
+	left: 25px;
+	width: 67px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#avant_de_voiture_berline_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/avant_de_voiture_berline_1.png);
+	background-size:cover;
+}
+
+
+#t_l_charger_mon_cv {
+	top: 134px;
+	left: 20px;
+	width: 136px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#telecharger_sur_le_lecteur_de_stockage_1 {
+	top: 131px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/telecharger_sur_le_lecteur_de_stockage_1.png);
+	background-size:cover;
+}
+
+
+#wilfried_flott_ {
+	top: 110px;
+	left: 25px;
+	width: 92px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#logo_linkedin_1 {
+	top: 107px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/logo_linkedin_1.png);
+	background-size:cover;
+}
+
+#telephone {
+	top: 83px;
+	left: 0px;
+	width: 104px;
+	height: 20px;
+}
+
+#telephone_portable_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/telephone_portable_1.png);
+	background-size:cover;
+}
+
+
+#_06_16_87_15_88 {
+	top: 3px;
+	left: 22px;
+	width: 99px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#logo_gmail_1 {
+	top: 59px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/logo_gmail_1.png);
+	background-size:cover;
+}
+
+
+#wilfried_flotte_gmail_com {
+	top: 62px;
+	left: 25px;
+	width: 161px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+#ville {
+	top: 35px;
+	left: 0px;
+	width: 95px;
+	height: 20px;
+}
+
+#_45110_sigloy {
+	top: 3px;
+	left: 25px;
+	width: 87px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#espace_reserve_a_la_carte_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/espace_reserve_a_la_carte_1.png);
+	background-size:cover;
+}
+
+
+#wilfried_flott__ek1 {
+	top: 0px;
+	left: 38px;
+	width: 161px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#titre_principal {
+	top: 0px;
+	left: 251px;
+	width: 344px;
+	height: 69px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 344px;
+	height: 69px;
+	background:rgba(217,217,217,1);
+}
+
+
+#d_veloppeur_web_et_web_mobile {
+	top: 7px;
+	left: 20px;
+	width: 344px;
+	height: 57.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
